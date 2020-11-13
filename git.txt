@@ -1,0 +1,7 @@
+FFffuunnccttiioonnss  ooff  vvccss  ::;;
+
+ttyyppeess  ooff  vvccss  :;;
+
+ceenntrraalliizzzzeeeedd  vvccss eg: svn,clearcase,perforce,TFS
+
+decentralized vcs : eg git,mercurial,teamcity 

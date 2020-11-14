@@ -2,3 +2,7 @@
 this first day code
  writigng the code 
 
+
+this is the example for branching strating
+
+devolpoping  the code in feature branch and merging it with master branch

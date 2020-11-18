@@ -6,3 +6,6 @@ this first day code
 this is the example for branching strating
 
 devolpoping  the code in feature branch and merging it with master branch
+
+
+hi this is murali welcome to github 
